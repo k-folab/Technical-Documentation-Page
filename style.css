@@ -1,0 +1,35 @@
+.nav-link {
+    color: purple;
+    font-size: 20px;
+    text-decoration: none;
+}
+body{
+    line-height: 3.2;
+    background-color: white;
+}
+header{
+    color: blue;
+    font-style: oblique;
+    font-size: 30px;
+    text-align: center;
+    font-weight: thin;
+}
+#navbar{
+    position: fixed;
+    border-right: solid;
+    border-color: purple;
+    width: 300px;
+    top: 0px;
+    left: 0px;
+}
+p{
+    margin : 0px;
+    color: purple;
+}
+#main-doc{
+    margin-left: 300px;
+}
+.list{
+    margin: 0px;
+    color: purple;
+}
